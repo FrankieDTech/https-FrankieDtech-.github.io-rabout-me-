@@ -1,2 +1,3 @@
-# https-FrankieDtech-.github.io-about-me-
-My first website that explain who i am and what i do
+# https-FrankieDtech-.github.io-my passion-
+My first website that explain my passion about vinyls.
+
